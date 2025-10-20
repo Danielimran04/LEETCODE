@@ -4,6 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
+        #bla bla
         stack = []
         for c in s:
             if c in '([{':
